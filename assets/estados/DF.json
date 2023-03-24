@@ -1,0 +1,751 @@
+[
+    {
+      "id": 5300108,
+      "nome": "Brasília",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300115,
+      "nome": "Plano Piloto",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300116,
+      "nome": "Gama",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300117,
+      "nome": "Taguatinga",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300118,
+      "nome": "Brasilândia",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300119,
+      "nome": "Sobradinho",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300120,
+      "nome": "Planaltina",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300121,
+      "nome": "Paranoá",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300122,
+      "nome": "Núcleo Bandeirante",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300123,
+      "nome": "Ceilândia",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300124,
+      "nome": "Guará",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300125,
+      "nome": "Cruzeiro",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300126,
+      "nome": "Samambaia",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300127,
+      "nome": "Santa Maria",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300128,
+      "nome": "Candangolândia",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300129,
+      "nome": "Park way",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300130,
+      "nome": "Recanto das emas",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300131,
+      "nome": "Lago Sul",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300132,
+      "nome": "Riacho Fundo I",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300133,
+      "nome": "Lago Norte",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300134,
+      "nome": "Itapoã",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300135,
+      "nome": "Fercal",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300136,
+      "nome": "Águas Claras",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300137,
+      "nome": "Riacho Fundo II",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300138,
+      "nome": "Sudoeste/Octagonal",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300139,
+      "nome": "Jardim Botânico",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300140,
+      "nome": "Varjão",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300141,
+      "nome": "São Sebastião",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300142,
+      "nome": "SCIA/Estrutural",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300143,
+      "nome": "Sobradinho II",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300144,
+      "nome": "SIA",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300145,
+      "nome": "Vicente Pires",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300146,
+      "nome": "Sol Nascente/Pôr do sol",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300147,
+      "nome": "Arniqueira",
+      "microrregiao": {
+        "id": 53001,
+        "nome": "Brasília",
+        "mesorregiao": {
+          "id": 5301,
+          "nome": "Distrito Federal",
+          "UF": {
+            "id": 53,
+            "sigla": "DF",
+            "nome": "Distrito Federal",
+            "regiao": {
+              "id": 5,
+              "sigla": "CO",
+              "nome": "Centro-Oeste"
+            }
+          }
+        }
+      }
+    }
+    
+  ]
